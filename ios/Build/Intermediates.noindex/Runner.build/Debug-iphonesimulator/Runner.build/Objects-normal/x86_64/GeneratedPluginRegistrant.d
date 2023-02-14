@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/a1502/Lokalne/flutter_projekty/instagram_clone/ig_clone/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/a1502/Lokalne/flutter_projekty/instagram_clone/ig_clone/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/a1502/Lokalne/flutter_projekty/instagram_clone/ig_clone/build/ios/Debug-iphonesimulator/Flutter.framework/Modules/module.modulemap \
+  /Users/a1502/Lokalne/flutter_projekty/instagram_clone/ig_clone/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/a1502/Lokalne/flutter_projekty/instagram_clone/ig_clone/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/a1502/Lokalne/flutter_projekty/instagram_clone/ig_clone/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/a1502/Lokalne/flutter_projekty/instagram_clone/ig_clone/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/a1502/Lokalne/flutter_projekty/instagram_clone/ig_clone/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/a1502/Lokalne/flutter_projekty/instagram_clone/ig_clone/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/a1502/Lokalne/flutter_projekty/instagram_clone/ig_clone/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/a1502/Lokalne/flutter_projekty/instagram_clone/ig_clone/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/a1502/Lokalne/flutter_projekty/instagram_clone/ig_clone/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/a1502/Lokalne/flutter_projekty/instagram_clone/ig_clone/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/a1502/Lokalne/flutter_projekty/instagram_clone/ig_clone/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/a1502/Lokalne/flutter_projekty/instagram_clone/ig_clone/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/a1502/Lokalne/flutter_projekty/instagram_clone/ig_clone/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/a1502/Lokalne/flutter_projekty/instagram_clone/ig_clone/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/a1502/Lokalne/flutter_projekty/instagram_clone/ig_clone/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/a1502/Lokalne/flutter_projekty/instagram_clone/ig_clone/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/Flutter.h

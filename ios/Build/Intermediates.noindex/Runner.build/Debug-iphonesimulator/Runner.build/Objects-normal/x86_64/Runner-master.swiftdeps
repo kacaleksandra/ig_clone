@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "f51ee6ffb867944693050bca5e49f9184178bb1f40405e44fef7e14fafe1f39a"
+build_start_time: [1676304546, 915482044]
+build_end_time: [1676304558, 5692958]
+inputs:
+  "/Users/a1502/Lokalne/flutter_projekty/instagram_clone/ig_clone/ios/Runner/AppDelegate.swift": [1675285518, 0]
