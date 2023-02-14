@@ -1,7 +1,10 @@
 import 'package:flutter/material.dart';
 import 'home_page.dart';
+import 'package:flutter/services.dart';
 
 void main() {
+  WidgetsFlutterBinding.ensureInitialized();
+  SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp]);
   runApp(const MainApp());
 }
 
@@ -13,16 +16,16 @@ class MainApp extends StatelessWidget {
     return MaterialApp(
         debugShowCheckedModeBanner: false,
         title: 'Instagram app',
-        home: MyHomePage(),
+        home: const MyHomePage(),
         theme: ThemeData(
-          scaffoldBackgroundColor: Colors.black87,
-          iconTheme: const IconThemeData(
-            color: Colors.white,
-          ),
+            scaffoldBackgroundColor: Colors.black87,
+            iconTheme: const IconThemeData(
+              color: Colors.white,
+            ),
             appBarTheme: const AppBarTheme(
-                elevation: 1,
-                color: Colors.black87,
-                )));
+              elevation: 1,
+              color: Colors.black87,
+            )));
   }
 }
 
@@ -38,7 +41,7 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: HomePage(),
+      body: const HomePage(),
       bottomNavigationBar: BottomAppBar(
         color: Colors.black87,
         child: Row(mainAxisAlignment: MainAxisAlignment.spaceAround, children: [
@@ -54,7 +57,7 @@ class _MyHomePageState extends State<MyHomePage> {
           ),
           IconButton(
             iconSize: currentPage == 1 ? 30 : 26,
-            icon: Icon(
+            icon: const Icon(
               Icons.search,
             ),
             onPressed: () {
